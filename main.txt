@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 Rahil was here
 my name is aidan
+=======
+Rahil was here 
+Alex is my name and i love weekends
+>>>>>>> Stashed changes
